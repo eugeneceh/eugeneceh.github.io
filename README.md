@@ -2,12 +2,7 @@
 
 An accountant by training, a data scientist by passion.
 
-Languages: 
+I was a pricing data analyst for Microsoft and was also a Web development project manager for several years. I have knowledge and working experince in R, SQL and HTML.
 
-R
-
-SQL
-
-HTML
-
+I am deeply passionate in the areas of data analysis, data visualisation and machine learning.
 
