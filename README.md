@@ -2,5 +2,5 @@
 
 A coder by passion.
 
-I dabble in R, Python, Raspberry Pi, Memplug, Palm OS and OpenAI in the little spare time I have.
+I dabble in R, Python, Raspberry Pi, Memplug and Palm OS in the little spare time I have.
 
